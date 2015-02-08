@@ -1,1 +1,3 @@
-# Haxe_WebRTC
+# Haxe WebRTCサンプル
+
+HaxeでWebRTCを扱うサンプル
